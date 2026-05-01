@@ -55,3 +55,20 @@ The `assessment-7` folder contains programs for polymorphism, virtual functions,
 | `q11_basic_to_class.cpp` | Basic type to class conversion |
 | `q12_class_to_basic.cpp` | Class type to basic type conversion |
 | `q13_udt_to_udt.cpp` | Polar to Cartesian conversion |
+
+## Assignment 8
+
+The `assignment-8` folder contains C++ programs for function templates and class templates.
+
+| File | Topic |
+| --- | --- |
+| `function_template_1_swap.cpp` | Swap two variables using function template |
+| `function_template_2_minimum.cpp` | Minimum element in an array |
+| `function_template_3_bubble_sort.cpp` | Bubble sort using function template |
+| `function_template_4_linear_search.cpp` | Linear search using function template |
+| `function_template_5_process_overload.cpp` | Overloaded function template `process()` |
+| `class_template_1_stack.cpp` | Stack using class template |
+| `class_template_2_queue.cpp` | Queue using class template |
+| `class_template_3_pair.cpp` | Pair of values using class template |
+| `class_template_4_arithmetic.cpp` | Basic arithmetic using class template |
+| `class_template_5_array.cpp` | Input and display array using class template |
