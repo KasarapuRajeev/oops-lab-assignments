@@ -72,3 +72,21 @@ The `assignment-8` folder contains C++ programs for function templates and class
 | `class_template_3_pair.cpp` | Pair of values using class template |
 | `class_template_4_arithmetic.cpp` | Basic arithmetic using class template |
 | `class_template_5_array.cpp` | Input and display array using class template |
+
+## Assignment 9
+
+The `assignment-9` folder contains C++ programs for file management, text files, binary object I/O, file copying, character I/O, and random file access using `seekg`, `seekp`, `tellg`, and `tellp`.
+
+| File | Topic |
+| --- | --- |
+| `q1_write_numbers.cpp` | Write numbers 1 to 200 in `NUM.TXT` |
+| `q2_count_alphabets.cpp` | Count alphabets from `NOTES.TXT` |
+| `q3_binary_object_io.cpp` | Binary file I/O using class object |
+| `q4_copy_file.cpp` | Copy contents from one file to another |
+| `q5_character_io.cpp` | Character I/O and string storage |
+| `q6a_read_10th_character.cpp` | Read 10th character using `seekg()` |
+| `q6b_overwrite_5th_number.cpp` | Overwrite 5th number using `seekp()` |
+| `q6c_file_size_tellg.cpp` | Find file size using `tellg()` |
+| `q6d_read_last_character.cpp` | Read last character using `seekg()` |
+| `q6e_seekg_tellg_remaining.cpp` | Move pointer and read remaining content |
+| `q6f_tellp_replace_text.cpp` | Use `tellp()` and random access replacement |
